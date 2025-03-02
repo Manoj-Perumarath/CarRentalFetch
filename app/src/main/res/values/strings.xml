@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarRentalFetch</string>
+    <string name="missing_drop_off_location">Missing Drop off Location</string>
+    <string name="missing_drop_off_date">Missing Drop off date</string>
+    <string name="pickup_details_are_mandatory">Pickup details are mandatory and must be filled before search.</string>
+    <string name="select_drop_off_date">Select Drop Off Date</string>
+    <string name="pickup_location">Pickup location</string>
+    <string name="pickup_location_cannot_be_empty">Pickup location cannot be empty!</string>
+    <string name="drop_off_location">Drop off location</string>
+</resources>
